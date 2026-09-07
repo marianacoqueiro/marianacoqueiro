@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi 👋 I'm Mariana Coqueiro</h1>
+</div>
 
-<!--
-**marianacoqueiro/marianacoqueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  My name is Mariana Coqueiro, and I am a Computer Science student at UESB. I am currently studying Java and working on    developing my programming skills. I enjoy learning, exploring new topics, and putting what I learn into practice    while continuously growing and building my career in technology.
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+##
+
+<div align="center">
+  <a href="https://instagram.com/maricoqs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-    %23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:maricoqs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariana-coqueiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
+</div>
+
+
