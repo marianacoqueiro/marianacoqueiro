@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  My name is Mariana Coqueiro, and I am a Computer Science student at UESB. I am currently studying Java and working on    developing my programming skills. I enjoy learning, exploring new topics, and putting what I learn into practice    while continuously growing and building my career in technology.
+My name is Mariana Coqueiro, and I am a Computer Science student at UESB. I am currently studying Java and web development while working on developing my programming skills. I enjoy learning, exploring new topics, and putting what I learn into practice, continuously growing and building my career in technology.
 </div>
 
 ##
@@ -12,6 +12,8 @@
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
   
 </div>
 
